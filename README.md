@@ -4,23 +4,23 @@ This course picks up where Harvard University’s CS50 leaves off, diving more d
 
 ## Lectures
 
-- **[x] 0. HTML, CSS** - (Started and Finished: July 9, 2020)
-- **[ ] 1. Git**
-- **[ ] 2. Python**
-- **[ ] 3. Django**
-- **[ ] 4. SQL, Models, and Migrations**
-- **[ ] 5. JavaScript**
-- **[ ] 6. User Interfaces**
-- **[ ] 7. Testing, CI/CD**
-- **[ ] 8. Scalability and Security**
+- [x] 0. HTML, CSS - (Started and Finished: July 9, 2020)
+- [ ] 1. Git
+- [ ] 2. Python
+- [ ] 3. Django
+- [ ] 4. SQL, Models, and Migrations
+- [ ] 5. JavaScript
+- [ ] 6. User Interfaces
+- [ ] 7. Testing, CI/CD
+- [ ] 8. Scalability and Security
 
 ## Projects 
- - **[ ] Project 0 - Search** - (Started: July 9, 2020) 
- - **[ ] Project 1 - Wiki** - (Started: --)
- - **[ ] Project 2 - Commerce** - (Started: --)
- - **[ ] Project 3 - Mail** - (Started: --)
- - **[ ] Project 4 - Network** - (Started: --)
- - **[ ] FInal Project - Capstone** - (Started: --)
+ - [ ] Project 0 - Search - (Started: July 9, 2020) 
+ - [ ] Project 1 - Wiki - (Started: --)
+ - [ ] Project 2 - Commerce - (Started: --)
+ - [ ] Project 3 - Mail - (Started: --)
+ - [ ] Project 4 - Network - (Started: --)
+ - [ ] FInal Project - Capstone - (Started: --)
 
 
 
