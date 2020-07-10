@@ -33,6 +33,15 @@ form {
   align-items: center;
   justify-content: center;
 }
+.searchBar .img-search {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.searchBar .img-search svg {
+  color: #5454ee;
+  font-size: 1.2em;
+}
 
 .search-input {
   background-color: transparent;
@@ -90,6 +99,13 @@ svg {
 .nav-link:hover {
   color: gray;
   text-decoration: underline;
+}
+
+h1 span {
+  font-size: 16px;
+  font-weight: lighter;
+  letter-spacing: normal;
+  color: #5454ee;
 }
 
 /*# sourceMappingURL=style.css.map */

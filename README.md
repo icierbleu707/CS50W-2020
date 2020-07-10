@@ -5,7 +5,7 @@ This course picks up where Harvard University’s CS50 leaves off, diving more d
 ## Lectures
 
 - [x] 0. HTML, CSS - (Started and Finished: July 9, 2020)
-- [ ] 1. Git
+- [x] 1. Git - (Started and Finished: July 10, 2020)
 - [ ] 2. Python
 - [ ] 3. Django
 - [ ] 4. SQL, Models, and Migrations
