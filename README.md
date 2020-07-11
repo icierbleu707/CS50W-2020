@@ -22,6 +22,8 @@ This course picks up where Harvard University’s CS50 leaves off, diving more d
  - [ ] Project 4 - Network - (Started: --)
  - [ ] FInal Project - Capstone - (Started: --)
 
+ wait
+
 
 
 
