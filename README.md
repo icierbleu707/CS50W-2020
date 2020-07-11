@@ -6,7 +6,7 @@ This course picks up where Harvard University’s CS50 leaves off, diving more d
 
 - [x] 0. HTML, CSS - (Started and Finished: July 9, 2020)
 - [x] 1. Git - (Started and Finished: July 10, 2020)
-- [ ] 2. Python
+- [x] 2. Python - (Started and Finished: July 11, 2020)
 - [ ] 3. Django
 - [ ] 4. SQL, Models, and Migrations
 - [ ] 5. JavaScript
@@ -15,7 +15,7 @@ This course picks up where Harvard University’s CS50 leaves off, diving more d
 - [ ] 8. Scalability and Security
 
 ## Projects 
- - [ ] Project 0 - Search - (Started: July 9, 2020) 
+ - [x] Project 0 - Search - (Started: July 9, 2020, Finished: July 11, 2020) 
  - [ ] Project 1 - Wiki - (Started: --)
  - [ ] Project 2 - Commerce - (Started: --)
  - [ ] Project 3 - Mail - (Started: --)
