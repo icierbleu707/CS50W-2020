@@ -1,6 +1,7 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 
 main {
@@ -17,10 +18,10 @@ main h1 {
   letter-spacing: 5px;
 }
 
-form {
+.search {
   display: flex;
-  flex-direction: column;
   align-self: center;
+  justify-content: center;
 }
 
 .searchBar {
@@ -88,6 +89,16 @@ svg {
 .buttons {
   display: flex;
   align-self: center;
+  justify-content: center;
+}
+
+nav .brand {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.adv-navbar {
+  background-color: #f1f1f1;
 }
 
 .nav-link {
@@ -106,6 +117,47 @@ h1 span {
   font-weight: lighter;
   letter-spacing: normal;
   color: #5454ee;
+}
+
+.adv-search {
+  justify-content: start;
+  align-items: flex-start;
+  width: 100vw;
+}
+.adv-search h1 {
+  font-size: 20px;
+  color: #d93025;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: normal;
+  font-weight: normal;
+  text-align: start;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.adv-search hr {
+  display: block;
+  margin-bottom: 50px;
+}
+
+form .form-wrapper {
+  width: 100vw;
+  margin: 0 50px;
+}
+form .form-wrapper label {
+  font-size: 12px;
+}
+
+.title-adv {
+  margin-left: 50px;
+}
+
+.title {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.adv-format-guide {
+  font-size: 12px;
 }
 
 /*# sourceMappingURL=style.css.map */
